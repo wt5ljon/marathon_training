@@ -9,7 +9,7 @@
 * Same days of rest/recovery/cross-train (Mondays and Fridays)
 * Same or similar weekly mileage totals
 
-#### Key Differences
+#### Differences
 * 20-week vs. 16-week (obviously)
 * Online schedule had a longest run of 26 miles (3-weeks prior to race) vs. this schedule's longest run of 20 miles
 * Online schedule includes other run workouts (i.e. Bridge work, Track work, Fartleks, etc.)
