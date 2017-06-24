@@ -24,7 +24,8 @@
 
 #### Time Committment / Weekly Mileage
 >I'm fortunate that I don't have to work so time to devote to this is not an issue.  I'm open to whatever weekly mileage is necessary without over-doing it.
-
+>
+>
 
 #### Preparation For Race Day
 >TBD
