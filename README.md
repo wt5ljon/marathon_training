@@ -1,7 +1,7 @@
 # Marathon Training Plan
->Here are my initial thoughts...
+>Thanks for the time and effort put into planning!  Here are my initial thoughts...
 ## Excel Schedule
->The weekly mileage, pacing, and time commitments are reasonable and something I believe I can keep up with. I found a 20-week schedule online that I liked and that is very similar to this 16-week schedule.  Here are some similarities and differences between the two.
+>The weekly mileage, pacing, and time commitments are reasonable and something I believe I can keep up with. I found a 20-week schedule online that I liked and turns out to be very similar to this 16-week schedule.  Here are some similarities and differences between the two.
 #### Similarities
 * Same number days of running and days of rest per week
 * Same days of rest/recovery/cross-train (Mondays and Fridays)
@@ -16,7 +16,7 @@
 #### Plan Between Now and Schedule Start Date
 >I'm currently running about four days a week (averaging around 20 miles total).
 #### Time Committment / Weekly Mileage
->I'm fortunate that I don't work so time to devote to this is not a real issue.  Open to whatever weekly mileage is necessary without over-doing it.
+>I'm fortunate that I don't have to work so time to devote to this is not an issue.  I'm open to whatever weekly mileage is necessary without over-doing it.
 #### Preparation For Race Day
 >TBD
 #### Hydration/Nutrition
@@ -24,7 +24,7 @@
 #### Race Training Schedule
 >See EXCEL spreadsheet
 #### Other Races
->None planned.  Possibly a few short races (Run the Tide)
+>None planned.  Possibly a few short races (Run the Tide Beach 5K)
 #### Best Time of Day to Run/Train
 >Prefer early morning.
 #### Training Scheduling Conflicts
